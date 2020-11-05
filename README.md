@@ -2,4 +2,4 @@
 ## This is a smaller headline
 * This is a list
 * This is another list item
-! [] (gangaikonda chozhapuram.jpg)
+![](gangaikondachozhapuram.jpg)
